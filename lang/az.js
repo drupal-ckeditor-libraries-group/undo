@@ -2,7 +2,7 @@
 Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'undo', 'nb', {
-	redo: 'Gjør om',
-	undo: 'Angre'
+CKEDITOR.plugins.setLang( 'undo', 'az', {
+	redo: 'Təkrar et',
+	undo: 'İmtina et'
 } );
